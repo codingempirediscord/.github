@@ -8,4 +8,4 @@ We welcome any and all contributions. Each repository has issues and pull reques
 
 ## Join our community
 
-If you're looking to join our community, simply join our [Discord server](https://discord.gg/NXYbv4dnYQ).
+If you're looking to join our community, simply join our [Discord server](https://discord.gg/DBKhnce2bA).
